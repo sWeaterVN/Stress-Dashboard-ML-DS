@@ -10,6 +10,13 @@ DataScience/
 │    ├── test.csv
 │── Output/
 │    ├── submission.csv
+│── Output/
+│    ├── average.png
+│    ├── baseline model.png
+│    ├── histogram KDE.png
+│    ├── overview1.png
+│    ├── overview2.png
+│    ├── static.png
 │── requirements.txt
 │── README.md
 ```
