@@ -18,7 +18,7 @@ DataScience/
 ### Create a virtual environment (recommended)
 ```bash
 python -m venv venv
-venv\Scripts\activate
+.\.venv\Scripts\activate
 ```
 ### Install library
 ```bash
@@ -26,7 +26,6 @@ pip install -r requirements.txt
 ```
 ### Run app with virtual environment (Personal computer - Command Prompt)
 ```bash
-.\.venv_name\Scripts\activate
 streamlit run .\stress_dashboard_app.py
 ```
 ---
