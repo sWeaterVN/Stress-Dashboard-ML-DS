@@ -3,8 +3,9 @@
 ## Layout
 ```bash
 DataScience/
-│── stress_dashboard_app.py              # Main file (Run  this file first)
 │── check.py
+│── stress_dashboard_app.py              # Main file (Run  this file first)
+│── requirements.txt
 │── Data/
 │    ├── StressLevelDataset.csv
 │    ├── test.csv
@@ -17,7 +18,6 @@ DataScience/
 │    ├── overview1.png
 │    ├── overview2.png
 │    ├── static.png
-│── requirements.txt
 │── README.md
 ```
 ---
